@@ -2,7 +2,7 @@
 
 
 
-[C# core]()
+[C# Core]()
 
 [C# OOP ]()
 
